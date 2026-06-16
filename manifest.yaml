@@ -1,0 +1,5 @@
+name: weeklyreport
+version: 1.0.0
+description: 周报生成器——根据模板生成格式规范的周报Word文档
+always_load:
+  - SKILL.md
